@@ -1,4 +1,4 @@
 matplotlib==3.0.2
 numpy==1.15.4
-opencv_python==3.4.5.20
+opencv_python==3.4.7.28
 scikit_learn==0.20.3
